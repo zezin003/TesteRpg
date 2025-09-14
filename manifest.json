@@ -1,0 +1,13 @@
+{
+  "name": "Ficha RPG",
+  "author": "Tropo",
+  "version": "1.0.0",
+  "description": "Mostra minha ficha de personagem do Google Sheets",
+  "actions": [
+    {
+      "name": "Abrir Ficha",
+      "type": "popover",
+      "url": "index.html"
+    }
+  ]
+}
