@@ -1,4 +1,5 @@
 {
+  "manifest_version": 1,
   "name": "Ficha RPG",
   "author": "Tropo",
   "version": "1.0.0",
@@ -11,3 +12,4 @@
     }
   ]
 }
+
